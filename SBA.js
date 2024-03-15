@@ -1,6 +1,5 @@
-sba 308 javascript fundementals: 
+// sba 308 javascript fundementals: 
 
-vss code
 //Check for cource id data validity.
 function checkAssignmentId(assignmentGroup, courseInfo) {
     if (assignmentGroup.course_id != courseInfo.id) {
